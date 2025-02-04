@@ -1,4 +1,4 @@
-Docker 를 이용하여 설치할 예정
+ Docker 를 이용하여 설치할 예정
 
 - Docker Registry 에서 Redis 이미지 불러오기
 > docker pull redis
